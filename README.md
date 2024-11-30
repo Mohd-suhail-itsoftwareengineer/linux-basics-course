@@ -1,8 +1,8 @@
-# The Linux Basics Course
+# The Linux Basics Course > the basic command enviroment with real example for the real synrio 
 
 These are notes from the [Linux Basics Course](https://bit.ly/3gGnxm0) hosted on KodeKloud.
 
-# Table of Contents
+# Table of Contents 
 
 - [01-Introduction](docs/01-Introduction)
 
